@@ -40,7 +40,7 @@ In a bin/rails console prompt, run `ComputeAuxiliaryData.perform_now`.
 
 ## (2) Find an issue you'd like to contribute to
 
-You can look at our [good first issues](), find one that interests you, and add a comment saying that you'd like to work on the issue. 
+You can look at our [good first issues](https://github.com/thewca/worldcubeassociation.org/labels/META%3A%20good%20first%20issue), find one that interests you, and add a comment saying that you'd like to work on the issue.
 
 
 ## (3) Create a new branch, and start writing your changes.
